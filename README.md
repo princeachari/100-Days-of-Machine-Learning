@@ -14,3 +14,4 @@ Welcome to my **100 Days of Machine Learning** challenge.
 | Day | Project | Status |
 |-----|---------|--------|
 | Day 001 | Titanic Survival Prediction | ✅ |
+| 002 | Loan Approval Prediction | Data Preprocessing, Missing Values, Encoding, Feature Scaling, EDA | ✅ |
