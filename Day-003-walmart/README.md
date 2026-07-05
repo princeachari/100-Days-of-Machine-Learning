@@ -49,6 +49,7 @@ Develop a regression model that accurately predicts Walmart weekly sales using h
 | Model | R² Score |
 |--------|---------:|
 | Ridge Regression | **0.924** |
+| Ridge Regression | **0.9240** |
 | Support Vector Regression | **0.696** |
 
 🏆 **Best Performing Model:** Ridge Regression
