@@ -16,3 +16,4 @@ Welcome to my **100 Days of Machine Learning** challenge.
 | Day 001 | Titanic Survival Prediction | ✅ |
 | Day 002 | Loan Approval Prediction    | ✅ |
 | Day 003 | Walmart Prediction          | ✅ |
+| Day 004 | Apple Product Price Prediction          | ✅ |
